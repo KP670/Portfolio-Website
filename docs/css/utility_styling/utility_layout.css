@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* Flexbox Classes */
+.flex-container {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+/* Grid Classes */
+
+/* Positioning */
+.pos-absolute {
+    position: absolute;
+}
+
+.pos-sticky {
+    position: sticky;
+    top: 0;
+}
+
+/*  */
